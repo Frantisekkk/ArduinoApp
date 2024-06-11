@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("skuska arduino app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef31b540c24ca1cd2ae921cd783905368e7a972c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ea466c0bc60f7aeccaf7e6851e65eb0935645f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("skuska arduino app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("skuska arduino app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

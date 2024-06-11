@@ -1,7 +1,11 @@
 # ArduinoApp
 
-+++ this is code for the arduino circuit +++
-you only need button, LDR/fotoresistor 10 and 100 k ohm resistor and arduino
+
+--------------------------------------------
++++ This is code for the arduino circuit +++
+--------------------------------------------
+
+-- you only need button, LDR/fotoresistor 10k and 100k ohm resistor and arduino --
 
 code:
 ===============================================================================
