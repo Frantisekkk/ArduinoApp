@@ -1,0 +1,36 @@
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\skuska arduino app.exe
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\skuska arduino app.deps.json
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\skuska arduino app.runtimeconfig.json
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\skuska arduino app.dll
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\skuska arduino app.pdb
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska arduino app.csproj.AssemblyReference.cache
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska arduino app_MarkupCompile.cache
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska arduino app_MarkupCompile.lref
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska arduino app.g.resources
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska arduino app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska arduino app.AssemblyInfoInputs.cache
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska arduino app.AssemblyInfo.cs
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska arduino app.csproj.CoreCompileInputs.cache
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska a.71AC23A9.Up2Date
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska arduino app.dll
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\refint\skuska arduino app.dll
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska arduino app.pdb
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\skuska arduino app.genruntimeconfig.cache
+C:\Users\frant\Documents\skuska arduino app\obj\Debug\net8.0-windows\ref\skuska arduino app.dll
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\Irony.dll
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\frant\Documents\skuska arduino app\bin\Debug\net8.0-windows\XLParser.dll
